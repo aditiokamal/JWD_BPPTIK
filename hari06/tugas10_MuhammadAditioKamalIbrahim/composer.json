@@ -1,0 +1,12 @@
+{
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    },
+    "require": {
+        "ircmaxell/random-lib": "^1.2",
+        "dompdf/dompdf": "^0.8.5",
+    }
+}

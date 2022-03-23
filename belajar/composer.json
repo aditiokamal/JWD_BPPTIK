@@ -1,0 +1,24 @@
+{
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    },
+    "require": {
+        "ircmaxell/random-lib": "^1.2",
+        "laravolt/indonesia": "^0.26.0",
+        "symfony/translation": "^5.1",
+        "phpunit/php-timer": "^5.0",
+        "itsjavi/bootstrap-colorpicker": "^3.2",
+        "ianmustafa/vue-php-native": "^1.1",
+        "dompdf/dompdf": "^0.8.5",
+        "timothyasp/nova-color-field": "^1.0",
+        "fullcalendar/fullcalendar": "^3.10",
+        "fzaninotto/faker": "^1.9",
+        "needim/noty": "^3.1",
+        "prologue/alerts": "^0.4.7",
+        "guzzlehttp/guzzle": "^7.0",
+        "laracasts/flash": "^3.1"
+    }
+}
